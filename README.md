@@ -1,9 +1,8 @@
-
 [![MasterHead](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Shashank.S</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<p align="center"><img  alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shashank2000&label=Profile%20views&color=0e75b6&style=flat" alt="s-shashank2000" /> </p>
 
